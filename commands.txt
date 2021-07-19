@@ -1,0 +1,2 @@
+Sander@W10NB27 MINGW64 ~/Documents/GitHub/vikus-viewer-script (master)
+$  node bin/textures "C:\Users\Sander\Downloads\test_script\*.jpg"
